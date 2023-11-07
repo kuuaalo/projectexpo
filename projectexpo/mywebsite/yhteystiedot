@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <title>Yhteystiedot</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="mystyle.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap" rel="stylesheet">
+    
+
+  </head>
+ 
+  <body>
+
+    <div class="topnav">
+      <a href="index" target="_self"><img src="images/expologo.png" alt="Etusivu"></a>
+      <a href="tapahtuma">Tapahtuma</a>
+      <a href="meista">Meistä</a>
+      <a href="yhteystiedot">Yhteystiedot</a>
+    </div>
+
+  <div class="header-center">
+    <h2>Yhteystiedot</h2>
+  </div>
+<main>
+  <div class="flex-container">
+    <div class="text-section">
+        <p>22.11.2023 klo 11-15</p> 
+        <p>Marttisen nuorisokeskus</p>
+        <p>Herrasentie 16 34800 Virrat</p>
+    </div>
+    <div class="text-section2">
+        <p>Rauli Mäkinen, projektipäällikkö</p>
+        <p>sähköposti: rauli.a.makinen@tuni.fi </p> <p>puhelinnumero: 044xxxxxx </p>
+        <p>Mikko Juvonen, viestintävastaava </p>
+        <p>sähköposti: mikko.juvonen@tuni.fi </p>
+        <p>puhelinnumero: 044xxxxxx </p>
+    </div>
+  </div>
+<main>
+</body>
+</html> 
